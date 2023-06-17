@@ -1,0 +1,45 @@
+.blood-availability {
+    margin: 20px;
+  }
+  
+  .blood-availability h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .blood-availability table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .blood-availability th, .blood-availability td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .blood-availability th {
+    background-color: #f2f2f2;
+  }
+  
+  .blood-availability tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+   .Phone Number h2 {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+  }
+  *{
+    font-family: 'Poppins',sans serif;
+}
+body{
+    background-image: url("https://cdn.dribbble.com/users/2620348/screenshots/10495041/media/893b9abc4922b558dc5bc88206a20460.png");
+    background-size : cover;
+    background-repeat : no-repeat;
+    background-position : center;
+    background-attachment  : fixed;
+}
+
+  
+
+ 
